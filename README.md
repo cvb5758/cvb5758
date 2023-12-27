@@ -1,15 +1,30 @@
-# 안녕
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%238FCADB&title_bg=%2349A5ED&icon=spring.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header" />
+
+  <h1 align="center">안녕하세요 이수민입니다.</h1>
   </br>
   
-## Skill
+  <h2 align="center">Skill</h2>
 
-### Languages & frameWork
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=Java&logoColor=white)
+  <h3 align="center">Languages & Framework</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=Java&logoColor=white" />
+  </div>
 
-### tools
-![GIT](https://img.shields.io/badge/GIT-F05032.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+  <h3 align="center">Tools</h3>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/GIT-F05032.svg?&style=for-the-badge&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=footer" />
+  </div>
 
+</div>
