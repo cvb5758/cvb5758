@@ -27,6 +27,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=footer" />
   </div>
 
+<a href="https://github.com/doongjun/commitmon">
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=${sumin}&theme=${grassland}&userFetchType=${mutual}" width="600px" />
+</a>
 </div>
-
 ![](./profile-3d-contrib/profile-green-animate.svg)
