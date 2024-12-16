@@ -31,4 +31,4 @@
   <img alt="commitmon" src="https://commitmon.me/adventure?username=sumin&theme=grassland&userFetchType=mutual" width="600px" />
 </a>
 </div>
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
